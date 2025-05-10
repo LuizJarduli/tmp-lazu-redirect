@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "tmp-lazu-redirect-utm"
-  }
+    "default": "tmp-lazu-redirect-utm-22eac",
+    "prod": "tmp-lazu-redirect-utm-22eac"
+  },
+  "targets": {},
+  "etags": {}
 }
